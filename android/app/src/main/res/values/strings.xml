@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Offline Casinos</string>
+    <string name="title_activity_main">Offline Casinos</string>
+    <string name="package_name">com.offlinecasinos.game</string>
+    <string name="custom_url_scheme">com.offlinecasinos.game</string>
+</resources>
