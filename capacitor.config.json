@@ -3,7 +3,5 @@
   "appName": "Offline Casinos",
   "webDir": "www",
   "bundledWebRuntime": false,
-  "android": {
-    "allowMixedContent": true
-  }
+  "android": { "allowMixedContent": true }
 }
